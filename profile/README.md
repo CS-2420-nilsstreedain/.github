@@ -45,7 +45,7 @@ E | X < 60
 ## Getting Help
 To get help understanding course material, students may see the Teaching Assistants during TA Help Hours, see the instructor during Office Hours, post a question to the Q&A forums on Piazza, or contact the course staff directly (also via Piazza). See the How to get help in CS 2420 module on Canvas for instructions and advice.
 
-### Student Behavior
+## Student Behavior
 **Student code.** All students are expected to maintain professional behavior, according to the University of Utah Student Code. Students should read the Code carefully and know that they are responsible for the content. According to Faculty Rules and Regulations, it is the faculty responsi- bility to enforce responsible classroom behaviors, beginning with verbal warnings and progressing to dismissal from class and a failing grade. Students have the right to appeal such action to the Student Behavior Committee.
 **Piazza discussion forum.** Piazza is used for all announcements, questions, and discussion related to CS 2420. A student must use their first and last names (as they appear in Canvas) in their Piazza profile, such that the correct name is visible to the instructor and TAs on posts. Note that students may select to post anonymously, such that their name is not visible to classmates.
 **Other guidelines.** Students are also responsible for the content of these documents: School of Computing Policies and Guidelines, College of Engineering Guidelines, and CS 2420 Academic Misconduct Policy.
